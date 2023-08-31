@@ -17,7 +17,10 @@ Requisito básico
 - La calculadora va a tener siempre un precio final en euros con 2 decimales al final de todos los campos
 
 > [Ya la tenemos resuelta en jQuery](https://codepen.io/delineas/pen/eYQXWYR?editors=0010)
-  
+
+
+
+> [Solución de Sergi](https://github.com/sergioedo/jquery2react-deck) / [Diapositivas de Sergi](https://github.com/sergioedo/jquery2react)
 
 1️⃣ Selector de producto
 Elegir entre tres personajes, cada uno tiene un precio
