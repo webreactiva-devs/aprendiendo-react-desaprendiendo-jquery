@@ -21,6 +21,7 @@ Requisito básico
 
 
 > [Solución de Sergi](https://github.com/sergioedo/jquery2react-deck) / [Diapositivas en Reactionarios.dev](https://reactionarios.dev/)
+> [Solución de José Manuel](https://github.com/jmgomezdev/desaprendiendo-jquery)
 
 1️⃣ Selector de producto
 Elegir entre tres personajes, cada uno tiene un precio
