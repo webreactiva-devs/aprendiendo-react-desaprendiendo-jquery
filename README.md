@@ -1,5 +1,7 @@
 # aprendiendo-react-desaprendiendo-jquery
 
+> [Grabación completada](https://www.webreactiva.com/cursos/masterclass/aprendiendo-react-desaprendiendo-jquery)
+
 ## Guión del directo
 
 - Instalación de React con Vite
